@@ -1,7 +1,6 @@
 {
   "name": "window",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +22,14 @@
     "gulp": "^4.0.2",
     "webpack": "^4.41.2",
     "webpack-stream": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatyanaDolgova/window-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TatyanaDolgova/window-store/issues"
+  },
+  "homepage": "https://github.com/TatyanaDolgova/window-store#readme",
+  "description": ""
 }

@@ -31,5 +31,9 @@
     "url": "https://github.com/TatyanaDolgova/window-store/issues"
   },
   "homepage": "https://github.com/TatyanaDolgova/window-store#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "slick-carousel": "^1.8.1"
+  }
 }
